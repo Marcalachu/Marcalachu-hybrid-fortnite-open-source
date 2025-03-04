@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fortnite Cosmetics Unlocker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fortnite Cosmetics Unlocker\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fortnite Cosmetics Unlocker\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Locker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fortnite Cosmetics Unlocker\\Locker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fortnite Cosmetics Unlocker\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\804_20241231193622.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fortnite Cosmetics Unlocker\\804_20241231193622.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Program.cs",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\Program.cs",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Program.cs",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwEMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:56:15.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:55:17.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\App.config",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\App.config",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\App.config",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T17:55:13.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Locker.cs",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Locker.cs",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\Locker.cs",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Locker.cs",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\Locker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:55:07.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\packages.config",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\packages.config",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\packages.config",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T17:55:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "804_20241231193622.ico - Icon [256x256, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\804_20241231193622.ico",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\804_20241231193622.ico",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\804_20241231193622.ico - Icon [256x256, 32 bits, PNG]",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\804_20241231193622.ico - Icon [256x256, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-03-02T17:54:33.091Z",
+              "EditorCaption": " - Icon [256x256, 32 bits, PNG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

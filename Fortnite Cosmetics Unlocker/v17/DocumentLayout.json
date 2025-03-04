@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72D44665-A854-4B27-8492-B214426708B8}|Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj|C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\fortnite cosmetics unlocker\\locker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D44665-A854-4B27-8492-B214426708B8}|Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj|solutionrelative:fortnite cosmetics unlocker\\locker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D44665-A854-4B27-8492-B214426708B8}|Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj|C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\fortnite cosmetics unlocker\\fiddler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D44665-A854-4B27-8492-B214426708B8}|Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj|solutionrelative:fortnite cosmetics unlocker\\fiddler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D44665-A854-4B27-8492-B214426708B8}|Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj|c:\\users\\espintor\\desktop\\fortnite-cosmetics-unlocker-main\\fortnite cosmetics unlocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D44665-A854-4B27-8492-B214426708B8}|Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj|solutionrelative:fortnite cosmetics unlocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Fortnite Cosmetics Unlocker||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D44665-A854-4B27-8492-B214426708B8}|Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj|C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\fortnite cosmetics unlocker\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D44665-A854-4B27-8492-B214426708B8}|Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj|solutionrelative:fortnite cosmetics unlocker\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fortnite Cosmetics Unlocker",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\Fortnite Cosmetics Unlocker.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T13:48:19.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Locker.cs",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Locker.cs",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\Locker.cs",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Locker.cs",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\Locker.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAowDQBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:00:45.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Backend.cs",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Backend.cs",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\Backend.cs",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Backend.cs",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\Backend.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:00:45.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Program.cs",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\Program.cs",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Program.cs",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:00:45.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fiddler.cs",
+              "DocumentMoniker": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Fiddler.cs",
+              "RelativeDocumentMoniker": "Fortnite Cosmetics Unlocker\\Fiddler.cs",
+              "ToolTip": "C:\\Users\\ESPINTOR\\Desktop\\Fortnite-Cosmetics-Unlocker-main\\Fortnite Cosmetics Unlocker\\Fiddler.cs",
+              "RelativeToolTip": "Fortnite Cosmetics Unlocker\\Fiddler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:00:45.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
