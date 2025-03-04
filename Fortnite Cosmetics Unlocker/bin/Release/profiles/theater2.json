@@ -1,0 +1,15 @@
+{
+    "created": "0001-01-01T00:00:00.000Z",
+    "updated": "0001-01-01T00:00:00.000Z",
+    "rvn": 1,
+    "wipeNumber": 9,
+    "accountId": "00000000000000000000000000000000",
+    "profileId": "theater2",
+    "version": "https://sakurafn.pages.dev/",
+    "stats": {
+        "attributes": {}
+    },
+    "commandRevision": 1,
+    "_id": "00000000000000000000000000000000",
+    "items": {}
+}

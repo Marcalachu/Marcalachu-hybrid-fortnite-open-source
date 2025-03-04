@@ -1,0 +1,27 @@
+{
+    "created": "0001-01-01T00:00:00.000Z",
+    "updated": "0001-01-01T00:00:00.000Z",
+    "rvn": 1,
+    "wipeNumber": 9,
+    "accountId": "00000000000000000000000000000000",
+    "profileId": "common_core",
+    "version": "https://sakurafn.pages.dev/",
+    "stats": {
+        "attributes": {
+            "current_mtx_platform": "Epic",
+            "undo_timeout": "min",
+            "allowed_to_send_gifts": true
+        }
+    },
+    "commandRevision": 1,
+    "_id": "00000000000000000000000000000000",
+    "items": {
+        "Currency:MtxPurchased": {
+            "templateId": "Currency:mtxpurchased",
+            "attributes": {
+                "platform": "EpicPC"
+            },
+            "quantity": 2147483647
+        }
+    }
+}

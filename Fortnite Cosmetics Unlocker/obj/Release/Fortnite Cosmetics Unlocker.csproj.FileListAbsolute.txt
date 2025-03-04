@@ -1,0 +1,23 @@
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\Fortnite Cosmetics Unlocker.exe.config
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\Fortnite Cosmetics Unlocker.exe
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\Fortnite Cosmetics Unlocker.pdb
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\BCMakeCert.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\DotNetZip.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\FiddlerCore.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\Newtonsoft.Json.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\System.Security.AccessControl.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\Telerik.NetworkConnections.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\DotNetZip.pdb
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\DotNetZip.xml
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\FiddlerCore.pdb
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\FiddlerCore.xml
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\Newtonsoft.Json.xml
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\Telerik.NetworkConnections.pdb
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\bin\Release\Telerik.NetworkConnections.xml
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\obj\Release\Fortnite Cosmetics Unlocker.csproj.AssemblyReference.cache
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\obj\Release\Fortnite Cosmetics Unlocker.csproj.CoreCompileInputs.cache
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\obj\Release\Fortnite.F13AD8B1.Up2Date
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\obj\Release\Fortnite Cosmetics Unlocker.exe
+C:\Users\ESPINTOR\Desktop\Fortnite-Cosmetics-Unlocker-main\Fortnite Cosmetics Unlocker\obj\Release\Fortnite Cosmetics Unlocker.pdb
